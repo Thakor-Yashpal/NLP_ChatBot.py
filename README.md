@@ -6,25 +6,22 @@ This project implements a basic chatbot using the TextBlob library in Python. It
 
 Clone the repository:
 
-Bash
-git clone https://github.com/your-username/chatbot-project.git
-Use code with caution.
-
 Install dependencies:
 
 Bash
-pip install textblob
+<code>pip install textblob </code>
 Use code with caution.
+
 
 Run the chatbot:
 
 Bash
-python chatbot.py
-Use code with caution.
+<code>python chatbot.py
+Use code with caution.</code>
 
 Usage
 
-The chatbot welcomes you and prompts for user messages. Enter your message and press Enter. The chatbot analyzes the sentiment and responds accordingly.
+<h3>The chatbot welcomes you and prompts for user messages. Enter your message and press Enter. The chatbot analyzes the sentiment and responds accordingly.</h3>
 
 <h4>Example:</h4>
 
